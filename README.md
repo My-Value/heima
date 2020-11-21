@@ -1,5 +1,5 @@
 # vue-shop
-这是黑马的项目1
+这是黑马的项目2
 
 ## Project setup
 ```
