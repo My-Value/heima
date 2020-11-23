@@ -1,5 +1,5 @@
 # vue-shop
-这是黑马的项目,黑马的项目，对接部署
+这是黑马的项目,黑马的项目，对接部署go
 ## Project setup
 ```
 npm install
