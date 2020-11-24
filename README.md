@@ -1,5 +1,5 @@
 # vue-shop
-这是黑马的项目,黑马的项目，难点启动node
+这是黑马的项目,黑马的项目，难点启动node，需要有小皮面板去配置
 ## Project setup
 ```
 npm install
