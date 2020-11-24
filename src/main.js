@@ -3,8 +3,18 @@ import App from './App.vue'
 import router from './router'
 import './plugins/element.js'
 
-Vue.config.productionTip = false
+// 导入全局样式表
+import './assets/css/global.css'
+// 导入iconfont
+import './assets/fonts/iconfont.css'
+// 导入axios
+import axios from 'axios'
+// 这样全局使用this.$http就可以访问到axios了
+Vue.prototype.$http=axios;
+// axios的基础路径
+axios.defaults.baseURL="http://127.0.0.1:8888/api/private/v1/"
 
+Vue.config.productionTip = false
 new Vue({
   router,
   render: h => h(App)
