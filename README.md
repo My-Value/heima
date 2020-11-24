@@ -1,5 +1,5 @@
 # vue-shop
-这是黑马的项目,黑马的项目，对接
+这是黑马的项目,黑马的项目，难点启动node
 ## Project setup
 ```
 npm install
